@@ -1,5 +1,9 @@
 # 🛡️ NORD Security System
 
+<img width="804" height="753" alt="nord-mini" src="https://github.com/user-attachments/assets/e0a78386-6ecd-4f65-831b-6253fc3c483a" />
+
+
+
 Enterprise-grade defensive security tool for Parrot OS with comprehensive monitoring, threat detection, and vulnerability scanning capabilities.
 
 **Developed by DevMonix Technologies (www.devmonix.io)**
