@@ -1347,8 +1347,7 @@ For issues and questions:
 - Check the troubleshooting section above
 - Review log files in `~/.nord_security/logs/`
 - Create an issue on the project repository
-- Contact DevMonix support team by sales@devmonix.io
-
+- Contact DevMonix support team
 ---
 
 **NORD Security System** - Enterprise-grade protection for Parrot OS by DevMonix Technologies.
